@@ -1,0 +1,66 @@
+----------------------------------
+* VOTRE COMPTE A BIEN ÉTÉ CRÉÉ ! *
+----------------------------------
+
+==============================
+
+Connectez-vous sur le site
+
+Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+<%@ include view='ALL_CPD_NYX_MirrorPageUrl' %>?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+https://www.nyxcosmetics.fr/?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+image : NYX
+https://www.nyxcosmetics.fr/?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+==============================
+
+Bienvenue chez NYX Professional MAKEUP
+
+Votre compte a bien été créé. Profitez dès maintenant de votre offre de bienvenue !
+
+image : 
+https://www.nyxcosmetics.fr/best-sellers?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+Sans oublier vos avantages à l'année
+https://www.nyxcosmetics.fr/best-sellers?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+image : 
+
+==============================
+
+image : Testez nos produits en live
+https://www.nyxcosmetics.fr/realitevirtuellemaquillage.html?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+TESTEZ NOS PRODUITS EN LIVE
+https://www.nyxcosmetics.fr/realitevirtuellemaquillage.html?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+image : Cadeau offert dès 49€ d'achats
+https://www.nyxcosmetics.fr/nos-offres-du-moment.html?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+Cadeau offertdès 49€ d'achat
+https://www.nyxcosmetics.fr/nos-offres-du-moment.html?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+image : Retours gratuits
+https://www.nyxcosmetics.fr/nouveautes?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+RETOURSGRATUITS
+https://www.nyxcosmetics.fr/nouveautes?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+image : Livraison gratuite dès 35€ d'achats
+https://www.nyxcosmetics.fr/best-sellers?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+Livraison gratuitedès 35€ d'achat
+https://www.nyxcosmetics.fr/best-sellers?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+image : Instagram
+https://www.instagram.com/nyxcosmetics_france?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+image : TikTok
+https://www.tiktok.com/@nyxcosmetics_fr?lang=en&utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+image : Facebook
+https://www.facebook.com/NyxCosmeticsFrance?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
+
+L'Oréal France SNC - 30 rue d'Alsace 92300 Levallois-Perret - 919 434 894 RCS NanterreSi vous avez des questions, contactez-nous.
+https://www.nyxcosmetics.fr/service-client-contactez-nous/customer-service-contact-us.html?utm_source=neolane&utm_medium=email_trigger&utm_campaign=<%=message.delivery.label%>
